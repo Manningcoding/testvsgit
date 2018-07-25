@@ -23,7 +23,7 @@ namespace Tests.Controllers
         }
         void ShowStr()
         {
-            Console.WriteLine("tddd123");
+            Console.WriteLine("tddd123tttd");
         }
         [AutoComplete]
         int testTransaction()
