@@ -23,7 +23,7 @@ namespace Tests.Controllers
         }
         void ShowStr()
         {
-            Console.WriteLine("tddd123tttd");
+            Console.WriteLine("notime for loser");
         }
         [AutoComplete]
         int testTransaction()
